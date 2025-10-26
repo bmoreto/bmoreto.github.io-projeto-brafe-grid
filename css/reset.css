@@ -8,3 +8,8 @@ body {
 	font-family: Georgia, serif;
 	color: #252525;
 }
+
+img{
+	max-width: 100%;
+	display: block;
+}
